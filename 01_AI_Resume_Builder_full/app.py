@@ -1,6 +1,13 @@
 from openai import OpenAI
 import streamlit as st
 from fpdf import FPDF
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # reads .env file automatically
+
+api_key = os.getenv("OPENAI_API_KEY")
+
 
 st.set_page_config(page_title="AI Resume Builder", page_icon="🤖")
 
