@@ -1,0 +1,9 @@
+{
+  "readme": "/mnt/data/genai_projects_portfolio/expanded_all/Multilingual_News_Summarization_full/README.md",
+  "requirements": "/mnt/data/genai_projects_portfolio/expanded_all/Multilingual_News_Summarization_full/requirements.txt",
+  "pipeline": "/mnt/data/genai_projects_portfolio/expanded_all/Multilingual_News_Summarization_full/pipeline.py",
+  "app": "/mnt/data/genai_projects_portfolio/expanded_all/Multilingual_News_Summarization_full/app.py",
+  "sample_article": "/mnt/data/genai_projects_portfolio/expanded_all/Multilingual_News_Summarization_full/sample_article.txt",
+  "dockerfile": "/mnt/data/genai_projects_portfolio/expanded_all/Multilingual_News_Summarization_full/Dockerfile",
+  "diagram": "/mnt/data/genai_projects_portfolio/expanded_all/Multilingual_News_Summarization_full/architecture.png"
+}
